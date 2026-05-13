@@ -391,22 +391,7 @@ The focus was not only on achieving strong metrics, but also on building a syste
 
 ---
 
-# Future Enhancements
 
-Potential improvements for enterprise-scale deployment include:
-
-* Hyperparameter optimization
-* Cross-validation pipelines
-* XGBoost and LightGBM benchmarking
-* SHAP-based model explainability
-* Real-time REST API deployment
-* Docker containerization
-* CI/CD automation
-* Cloud deployment infrastructure
-* Monitoring and drift detection
-* Role-based dashboard integration
-
----
 
 # Final Outcome
 
